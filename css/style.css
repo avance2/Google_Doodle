@@ -1,0 +1,10 @@
+#stage {
+  height: 300px;
+  width: 600px;
+  background: steelblue;
+}
+
+img {
+  -webkit-transform: scale(0.25);
+          transform: scale(0.25);
+}
